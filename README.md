@@ -71,6 +71,5 @@ Codveda Technology is a hub for innovation in AI/ML automation and data analysis
 ---
 
 ## 🚀 How to Use
-1. **Clone the repository:**
-   ```bash https://github.com/Sammy-82270-tech/CODVEDA-MACHINE-LERANING-INTERNSHIP-TASK
-
+1. **Clone the repository: https://github.com/Sammy-82270-tech/CODVEDA-MACHINE-LERANING-INTERNSHIP-TASK**
+   ```bash 
